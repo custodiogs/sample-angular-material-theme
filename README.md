@@ -1,6 +1,9 @@
 # AngularMaterialTheme
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+Node 10.15.2
+Ivy compiler
+Angular Material 9.2.1
 
 ## Development server
 
