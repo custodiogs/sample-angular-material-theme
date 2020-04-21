@@ -1,4 +1,4 @@
-# AngularMaterialTheme
+# Angular 9 With Material Design
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 Node 10.15.2
